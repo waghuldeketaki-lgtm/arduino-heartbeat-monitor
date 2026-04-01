@@ -1,4 +1,4 @@
-# Arduino Heartbeat Monitoring System
+##Arduino Heartbeat Monitoring System
 
 ## 📌 About the Project
 This project is an IoT-based system using Arduino and a heartbeat sensor to monitor pulse rate.
